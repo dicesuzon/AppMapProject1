@@ -6,7 +6,7 @@
     prism:ViewModelLocator.AutowireViewModel="True"
 	xmlns:local="clr-namespace:AppMapProject1.Views;assembly=AppMapProject1"
     x:Class="AppMapProject1.Views.TabChild"
-    Title="Tab Child Change">
+    Title="Tab Child Change 2">
 
 
 
